@@ -1,3 +1,5 @@
+/* eslint-disable react/self-closing-comp */
+/* eslint-disable eqeqeq */
 /* eslint-disable react-native/no-inline-styles */
 /* eslint-disable react/react-in-jsx-scope */
 import {Component} from 'react';
@@ -8,8 +10,8 @@ import {UserInfo, UserBtn} from './UserInfo';
 
 const avatar = require('../images/user-photo.png');
 const user = require('../images/user-photo.png');
-const newEmail = 't';
-const newPass = 't';
+const newEmail = 'test@gmail.com';
+const newPass = '1234';
 
 export default class HomePage extends Component {
   state = {
