@@ -32,7 +32,7 @@ npm run android
 
 ##  App Screenshots
 
-![Screenshot 2024-02-10 234416](https://github.com/deniizeynep/login-screen-app/assets/109898313/c9746a8c-04ac-4f8f-87a6-a86fe0e58e4d)
+![image](https://github.com/deniizeynep/login-screen-app/assets/109898313/9cede2b6-8ce5-423c-bb20-749a1213392f)
 
 
 ## Thanks!
