@@ -9,7 +9,7 @@ Login screen was made using [React Native](https://reactnative.dev/) and CSS.
 ###  Clone the repository
 
 ```bash
-https://github.com/deniizeynep/login-screen-app.git
+git clone https://github.com/deniizeynep/login-screen-app.git
 ```
 
 ###  Install dependencies
